@@ -22,5 +22,11 @@
   <a href="https://instagram.com/lucasgalvm" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:lucasmelogalv@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucasm-galvao/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
 </div>
+ 
+<h1 align="center"> Year Status </h1> 
+ <div>
+  <img heigth:"180em" src='https://github-readme-stats.vercel.app/api?username=galvaolucas'/>
+  <img heigth:"180em" src='https://github-readme-stats.vercel.app/api?username=galvaolucas&count_private=true'/>
+</div>
+ 
