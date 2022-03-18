@@ -26,7 +26,7 @@
  
 <h1 align="center"> Year Status </h1> 
  <div>
-  <img heigth:"180em" src='https://github-readme-stats.vercel.app/api?username=galvaolucas'/>
-  <img heigth:"180em" src='https://github-readme-stats.vercel.app/api?username=galvaolucas&count_private=true'/>
+  <img heigth:"180em" src='https://github-readme-stats.vercel.app/api?username=galvaolucas&theme=tokyonight'/>
+  <img heigth:"180em" src='https://github-readme-stats.vercel.app/api?username=galvaolucas&count_private=true&theme=tokyonight'/>
 </div>
  
