@@ -1,5 +1,5 @@
 
-<div>
+<div align="center">
  <h1 align="center"> Olá, sou o Lucas Galvão! </h1>
   <a href="https://github.com/galvaolucas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=galvaolucas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
